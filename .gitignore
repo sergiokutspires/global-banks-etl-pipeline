@@ -1,0 +1,12 @@
+# Virtual environments
+.venv/
+.venv-1/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated artifacts
+*.db
+*.csv
+code_log.txt
